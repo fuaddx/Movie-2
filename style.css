@@ -1,0 +1,23 @@
+/* Your existing styles here */
+
+/* Example animation classes using Animate.css (you can use your preferred animation library or create your animations) */
+.animate__animated {
+    animation-duration: 1s;
+  }
+  
+  .animate__fadeIn {
+    animation-name: fadeIn;
+  }
+  
+  .animate__fadeInDown {
+    animation-name: fadeInDown;
+  }
+  
+  .animate__fadeInUp {
+    animation-name: fadeInUp;
+  }
+  
+  .animate__zoomIn {
+    animation-name: zoomIn;
+  }
+  
